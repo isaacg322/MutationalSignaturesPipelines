@@ -1,0 +1,3 @@
+Sample	type
+dnms	dnms
+pzms_vaf025	pzms
