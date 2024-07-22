@@ -1,3 +1,6 @@
 Sample	type
-dnms	dnms
-pzms_vaf025	pzms
+sample_name1	dnms
+sample_name2	dnms
+sample_name3  pzms
+sample_name4  pzms
+sample_name5  pzms
