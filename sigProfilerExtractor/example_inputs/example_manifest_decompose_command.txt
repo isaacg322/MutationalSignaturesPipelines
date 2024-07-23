@@ -1,0 +1,2 @@
+sipro_extract_output_dir	solution_index	signature_db	dbID
+/lustre/scratch125/casm/team294rr/ig4/pzms_gel/sigpro_runs/singleDNM_vs_hypermuts_sbs96_counts	4	/lustre/scratch125/casm/team294rr/ig4/resources/cosmic38/COSMIC_v3.3.1_SBS_GRCh38_PZMs_cosinesim90.txt	cosmic38_definitive
